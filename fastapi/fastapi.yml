@@ -22,6 +22,7 @@ kind: Service
 metadata:
   name: svc-fast
 spec:
+  type: LoadBalancer
   selector:
     app: fast
   ports:
