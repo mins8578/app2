@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: con-svel
-        image: 781788730003.dkr.ecr.ap-northeast-2.amazonaws.com/svel:2
+        image: 781788730003.dkr.ecr.ap-northeast-2.amazonaws.com/svel:3
 
 ---
 
